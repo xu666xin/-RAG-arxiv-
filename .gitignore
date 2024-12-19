@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+rag_env/
+.env
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# 项目特定
+answers.json 
