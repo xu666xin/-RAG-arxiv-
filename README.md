@@ -2,7 +2,7 @@
 
 基于 RAG (Retrieval-Augmented Generation) 的学术论文问答系统。
 
-纯靠cursor生成，milvus数据库是学校的地址
+milvus数据库是学校的地址
 
 ## 功能特点
 
